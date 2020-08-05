@@ -8,7 +8,7 @@ A site that allows you to play hangman
 Provides helper functions for accessing and controlling the UI.
 
 * UI.initialize = Initialize the UI and its controls.
-* UI.displayWord = Shows the ui for the current word.
+* UI.displayWord = Shows the UI for the current word.
 * UI.updateWrongLetters = Shows the UI for the wrong guesses.
 * UI.showNotification = Shows a message that the current letter has already been guessed.
 * UI.keyDown = Handles the key presses on the window.

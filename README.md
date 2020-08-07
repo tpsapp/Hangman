@@ -1,5 +1,9 @@
 # Hangman
-A site that allows you to play hangman
+A site that allows you to play hangman.
+
+The main.js has comments for what each function does but below is a list of each class and what it's functions are for.
+
+Live Demo: https://www.thomassapp.com/Hangman
 
 ## Classes
 
